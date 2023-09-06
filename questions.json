@@ -1,0 +1,245 @@
+{
+    "questions": [
+      {
+        "en": {
+          "question": "What is your name?",
+          "corrct_answer": "Marko",
+          "icorrct_answrs": [
+            "Matjaž",
+            "Gaja",
+            "Lorenzo"
+          ]
+        },
+        "si": {
+          "question": "Kako ti je ime?",
+          "corrct_answer": "Marko",
+          "icorrct_answrs": [
+            "Matjaž",
+            "Gaja",
+            "Lorenzo"
+          ]
+        }
+      },
+      {
+        "en": {
+          "question": "How old are you?",
+          "corrct_answer": "25",
+          "icorrct_answrs": [
+            "30",
+            "22",
+            "18"
+          ]
+        },
+        "si": {
+          "question": "Koliko si star?",
+          "corrct_answer": "25",
+          "icorrct_answrs": [
+            "30",
+            "22",
+            "18"
+          ]
+        }
+      },
+      {
+        "en": {
+          "question": "Where are you from?",
+          "corrct_answer": "New York",
+          "icorrct_answrs": [
+            "Los Angeles",
+            "Chicago",
+            "Miami"
+          ]
+        },
+        "si": {
+          "question": "Iz katerega mesta prihajaš?",
+          "corrct_answer": "New York",
+          "icorrct_answrs": [
+            "Los Angeles",
+            "Chicago",
+            "Miami"
+          ]
+        }
+      },
+      {
+        "en": {
+          "question": "What is your favorite color?",
+          "corrct_answer": "Blue",
+          "icorrct_answrs": [
+            "Red",
+            "Green",
+            "Yellow"
+          ]
+        },
+        "si": {
+          "question": "Katera je tvoja najljubša barva?",
+          "corrct_answer": "Modra",
+          "icorrct_answrs": [
+            "Rdeča",
+            "Zelena",
+            "Rumena"
+          ]
+        }
+      },
+      {
+        "en": {
+          "question": "What is the capital of France?",
+          "corrct_answer": "Paris",
+          "icorrct_answrs": [
+            "Berlin",
+            "London",
+            "Madrid"
+          ]
+        },
+        "si": {
+          "question": "Katero je glavno mesto Francije?",
+          "corrct_answer": "Pariz",
+          "icorrct_answrs": [
+            "Berlin",
+            "London",
+            "Madrid"
+          ]
+        }
+      },
+      {
+        "en": {
+          "question": "What is the capital of Japan?",
+          "corrct_answer": "Tokyo",
+          "icorrct_answrs": [
+            "Beijing",
+            "Seoul",
+            "Shanghai"
+          ]
+        },
+        "si": {
+          "question": "Katero je glavno mesto Japonske?",
+          "corrct_answer": "Tokio",
+          "icorrct_answrs": [
+            "Peking",
+            "Seul",
+            "Šanghaj"
+          ]
+        }
+      },
+      {
+        "en": {
+          "question": "What is your favorite book?",
+          "corrct_answer": "To Kill a Mockingbird",
+          "icorrct_answrs": [
+            "1984",
+            "Pride and Prejudice",
+            "The Great Gatsby"
+          ]
+        },
+        "si": {
+          "question": "Katera je tvoja najljubša knjiga?",
+          "corrct_answer": "Ubiti ptico oponašalko",
+          "icorrct_answrs": [
+            "1984",
+            "Ponos in pristranost",
+            "Veliki Gatsby"
+          ]
+        }
+      },
+      {
+        "en": {
+          "question": "What is your favorite animal?",
+          "corrct_answer": "Lion",
+          "icorrct_answrs": [
+            "Elephant",
+            "Tiger",
+            "Giraffe"
+          ]
+        },
+        "si": {
+          "question": "Katera je tvoja najljubša žival?",
+          "corrct_answer": "Lev",
+          "icorrct_answrs": [
+            "Slon",
+            "Tiger",
+            "Žirafa"
+          ]
+        }
+      },
+      {
+        "en": {
+          "question": "What is the square root of 16?",
+          "corrct_answer": "4",
+          "icorrct_answrs": [
+            "3",
+            "5",
+            "6"
+          ]
+        },
+        "si": {
+          "question": "Katera je kvadratna korenina iz 16?",
+          "corrct_answer": "4",
+          "icorrct_answrs": [
+            "3",
+            "5",
+            "6"
+          ]
+        }
+      },
+      {
+        "en": {
+          "question": "What is your favorite sport?",
+          "corrct_answer": "Soccer",
+          "icorrct_answrs": [
+            "Basketball",
+            "Tennis",
+            "Golf"
+          ]
+        },
+        "si": {
+          "question": "Kateri je tvoj najljubši šport?",
+          "corrct_answer": "Nogomet",
+          "icorrct_answrs": [
+            "Košarka",
+            "Tenis",
+            "Golf"
+          ]
+        }
+      },
+      {
+        "en": {
+          "question": "What is the capital of Italy?",
+          "corrct_answer": "Rome",
+          "icorrct_answrs": [
+            "Milan",
+            "Naples",
+            "Florence"
+          ]
+        },
+        "si": {
+          "question": "Katero je glavno mesto Italije?",
+          "corrct_answer": "Rim",
+          "icorrct_answrs": [
+            "Milano",
+            "Neapelj",
+            "Firence"
+          ]
+        }
+      },
+      {
+        "en": {
+          "question": "What is the largest planet in our solar system?",
+          "corrct_answer": "Jupiter",
+          "icorrct_answrs": [
+            "Mars",
+            "Earth",
+            "Saturn"
+          ]
+        },
+        "si": {
+          "question": "Kateri je največji planet v našem osončju?",
+          "corrct_answer": "Jupiter",
+          "icorrct_answrs": [
+            "Mars",
+            "Zemlja",
+            "Saturn"
+          ]
+        }
+      }
+    ]
+  }
+  
